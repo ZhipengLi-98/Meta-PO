@@ -1,4 +1,4 @@
-# Meta-PBO: Transfer Learning for Preference-Based Bayesian Optimization
+# Meta-PO: Transfer Learning for Preference-Based Bayesian Optimization
 
 Efficient Bayesian optimization using **pairwise preferences** with **transfer learning**.
 
